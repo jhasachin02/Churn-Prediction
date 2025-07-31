@@ -1,8 +1,6 @@
 
-# Churn Guard
+![Churn Guard Logo](public/favicon.svg) # Churn Guard
 
-
-![Churn Guard Logo](public/favicon.svg)
 
 ![CG Image](public/CG.png)
 

@@ -1,5 +1,5 @@
 
-# Churn Guard
+# Churn Prediction
 
 
 ![CG Image](public/CG.png)
